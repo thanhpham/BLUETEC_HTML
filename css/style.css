@@ -8011,7 +8011,7 @@ p.intro {
 	opacity: 1;
 }
 .owl-theme .owl-controls .owl-page.active span {
-	background: none;
+	background: rgb(255, 255, 255);
 }
 .owl-theme .owl-controls .owl-page.active span:before {
 	content: '';
